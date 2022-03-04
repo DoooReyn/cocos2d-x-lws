@@ -1,2 +1,3 @@
 # cocos2d-x-lws
-Cocos2d-x 内置 WebSocket 本地服务器
+
+**cocos2d-x-lws** 是内置于 `Cocos2d-x` 的 WebSocket 本地服务器的方案。
